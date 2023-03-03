@@ -11,7 +11,7 @@ Cloudflare WARP allows you to selectively apply WARP client settings if the devi
 
 ## Create a TLS endpoint
 
-If your network already has a host serving a TLS certificate, skip ahead to [add the network on the Zero Trust dashboard](#add-managed-network-on-the-zero-trust-dashboard). Otherwise, follow these instructions to generate a new TLS endpoint:
+If your network already has a host serving a TLS certificate, skip ahead to [add the network to the Zero Trust dashboard](#add-managed-network-to-the-zero-trust-dashboard). Otherwise, follow these instructions to generate a new TLS endpoint:
 
 1. Create a local certificate:
 
